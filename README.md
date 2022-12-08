@@ -1,3 +1,6 @@
+## :warning: Deprecation notice
+> This repository has been archived and is no longer maintained.
+
 # Date Picker Custom Element Sample for Kentico Kontent
 
 This is a [custom element](https://kontent.ai/learn/tutorials/develop-apps/integrate/content-editing-extensions) for [Kentico Kontent](https://kontent.ai) that allows users to use the jQuery UI date picker to select a date.
